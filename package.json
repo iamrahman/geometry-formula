@@ -7,5 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Inamur Rahman",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "geometry",
+    "formula",
+    "geometry-formula",
+    "Inamur Rahman"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamrahman/geometry-formula"
+  }
 }

@@ -1,4 +1,4 @@
-# Geometry Tool
+# Geometry Formula
 
 This npm package will help to play with all geometrical shape.
 
@@ -8,7 +8,7 @@ Before working with this npm package we should install node in our system.
 
 ### Prerequisites
 
-Before working with this npm package we should install node in our system. Click to install [Node](https://nodejs.org/en/download/). Just to confirm check the node version
+Before working with this npm package we should install node in our system. [Install Node](https://nodejs.org/en/download/). Just to confirm check the node version
 
 ```
 node --version
