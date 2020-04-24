@@ -42,23 +42,17 @@ console.log(Geometry.circle('parameter',10));
 console.log(Geometry.circle('area',10));
 ```
 
-### Cone
+### Rectangle
 
-Explain what these tests test and why
+In case of circle we have to pass two parameters. First is type i.e. 'area' or 'parameter'.
+Second paramter is the value of lenght and third is breadth.
 
 ```
-Give an example
+const Geometry = require('geometry-formula');
+
+console.log(Geometry.rectangle('parameter',10,12));
+console.log(Geometry.rectangle('area',10,12));
 ```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
 
