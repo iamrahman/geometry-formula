@@ -1,0 +1,11 @@
+{
+  "name": "geometry-formula",
+  "version": "1.0.0",
+  "description": "This is the Npm package for all geometrical formula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Inamur Rahman",
+  "license": "ISC"
+}
