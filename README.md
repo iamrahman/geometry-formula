@@ -32,10 +32,14 @@ Let's take an example of few geometrical shape.
 
 ### Circle
 
-Explain what these tests test and why
+In case of circle we have to pass two parameters. First is type i.e. 'area' or 'parameter'.
+Second paramter is the value of radius.
 
 ```
-Give an example
+const Geometry = require('geometry-formula');
+
+console.log(Geometry.circle('parameter',10));
+console.log(Geometry.circle('area',10));
 ```
 
 ### Cone
