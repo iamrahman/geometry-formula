@@ -4,14 +4,14 @@ This npm package will help to play with all geometrical shape.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Before working with this npm package we should install node in our system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Before working with this npm package we should install node in our system. Click to install [Node](https://nodejs.org/en/download/). Just to confirm check the node version
 
 ```
-Give examples
+node --version
 ```
 
 ### Installing
@@ -21,13 +21,7 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+npm install geometry-formula
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
@@ -72,7 +66,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Inamur Rahman** - *Initial work* - [PurpleBooth](https://github.com/iamrahman)
+* **Inamur Rahman**  - [Github](https://github.com/iamrahman)
 
 ## License
 
