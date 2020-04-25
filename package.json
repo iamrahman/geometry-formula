@@ -1,6 +1,6 @@
 {
   "name": "geometry-formula",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This is the Npm package for all geometrical formula",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,9 @@
     "geometry",
     "formula",
     "geometry-formula",
-    "Inamur Rahman"
+    "maths",
+    "math",
+    "geometry-formulas"
   ],
   "repository": {
     "type": "git",

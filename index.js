@@ -17,7 +17,5 @@ let cone = new cone_shape()
 let Geometry = {
     square, circle, rectangle, median, mode, cube, mean, triangle, cone
 }
-//let a=[1,2,4,6,2,3,1,2]
-let arr = [4,5,3];
-console.log(Geometry.cone.area(10,10,10));
+
 module.exports = Geometry

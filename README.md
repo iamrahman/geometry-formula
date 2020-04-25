@@ -49,9 +49,9 @@ In case of cone we have to pass three parameters. First is type i.e. 'radius', '
 ```
 const Geometry = require('geometry-formula');
 
-console.log(Geometry.cone.volume(10,12));      // params(radius, height)
-console.log(Geometry.cone.lateralArea(10,14)); // params(radius, slant_height)
-console.log(Geometry.cone.area(10,14));        // params(radius, height,slant_height)
+console.log(Geometry.cone.volume(radius, height)); 
+console.log(Geometry.cone.lateralArea(radius, slant_height));
+console.log(Geometry.cone.area(radius, height,slant_height));        
 ```
 
 ## Authors
