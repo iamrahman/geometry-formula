@@ -38,20 +38,19 @@ Second paramter is the value of radius.
 ```
 const Geometry = require('geometry-formula');
 
-console.log(Geometry.circle('parameter',10));
-console.log(Geometry.circle('area',10));
+console.log(Geometry.circle.parameter.(10));
+console.log(Geometry.circle.area(10));
 ```
 
-### Rectangle
+### Cone
 
-In case of circle we have to pass two parameters. First is type i.e. 'area' or 'parameter'.
-Second paramter is the value of lenght and third is breadth.
+In case of cone we have to pass three parameters. First is type i.e. 'radius', 'slant height' and 'height'
 
 ```
 const Geometry = require('geometry-formula');
 
-console.log(Geometry.rectangle('parameter',10,12));
-console.log(Geometry.rectangle('area',10,12));
+console.log(Geometry.cone.volume(10,12)); params(radius, height)
+console.log(Geometry.cone.lateralArea(10,12,14)); params(radius, height, slant_height)
 ```
 
 ## Authors
