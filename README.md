@@ -54,6 +54,20 @@ console.log(Geometry.cone.lateralArea(radius, slant_height));
 console.log(Geometry.cone.area(radius, height,slant_height));        
 ```
 
+### Mean Mode and Median
+
+In case of cone we have to pass three parameters. First is type i.e. 'radius', 'slant height' and 'height'
+
+```
+const Geometry = require('geometry-formula');
+
+var arr = [4,5,2,1,6,3,7,8,4,2,2]
+
+console.log( Geometry.mean(arr) )
+console.log( Geometry.mode(arr) )
+console.log( Geometry.meadian(arr) )     
+```
+
 ## Authors
 
 * **Inamur Rahman**  - [Github](https://github.com/iamrahman)
